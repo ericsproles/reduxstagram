@@ -24,4 +24,9 @@ export function removeComment(postId, index) {
   }
 }
 
+// test function
+export function highlightComment(postId, index) {
+  // do stuff here
+  return
+}
 
